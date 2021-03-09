@@ -366,7 +366,6 @@ namespace NotesApp
         private void button1_Click(object sender, EventArgs e)
         {
             ReloadData();
-            //// Обновляем таблицу!
         }
 
         private void nameBox_TextChanged(object sender, EventArgs e)
